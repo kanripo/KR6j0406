@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大方廣菩薩藏經中文殊師利根本一字陀羅尼經
+#+DATE: 2015-08-30 20:31:50.101852
+#+PROPERTY: JUAN 0
